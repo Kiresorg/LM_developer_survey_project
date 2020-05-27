@@ -27,8 +27,30 @@ body {
     flex-shrink: 0;
 }
 
-ul {
+nav ul {
     list-style-type: none;
     margin: 0;
     padding: 0;
+    text-align: center;
   }
+
+nav li {
+    display: inline-block;
+    margin-right: -4px;
+    font-family: 'Oswald', sans-serif;
+    font-size: 1.2em;
+    line-height: 40px;
+    border-bottom: 1px solid #888;
+    width: 300;
+    height: 50px;
+    font-size: 1.4em;
+    padding-right: 25px;
+}
+
+main {
+    padding-top: 15px;
+}
+
+footer {
+    padding-left: 15px;
+}
