@@ -27,6 +27,10 @@ body {
     flex-shrink: 0;
 }
 
+nav {
+    background: #FFD000;
+}
+
 nav ul {
     list-style-type: none;
     margin: 0;
@@ -45,6 +49,14 @@ nav li {
     height: 50px;
     font-size: 1.4em;
     padding-right: 25px;
+}
+
+nav li a {
+    color: #34373D;
+}
+
+nav li.lastNav {
+    padding-right: 0px;
 }
 
 main {
