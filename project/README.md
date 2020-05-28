@@ -10,12 +10,6 @@ You will need a few image files to make the site complete. These are located at:
 You can use any folder/file structure you like. A typical structure might be this:
 
 <pre>
-📦project
- ┣ 📂img
- ┃ ┗ 📜favicon.png
- ┣ 📜index.html
- ┣ 📜README.md
- ┣ 📜styles.css
- ┗ 📜survey.html
+
 </pre>
 
